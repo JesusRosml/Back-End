@@ -13,4 +13,3 @@ print('Soy la segubda frase')
 #podemos colocar los signos o palabras que queramos para cambiar ese valor. 
 print('HTML5', 'CSS', 'Boostrap', 'JavaScript', 'TypeScript', 'React', 'Git-Hub', sep=" | ")
 
-
