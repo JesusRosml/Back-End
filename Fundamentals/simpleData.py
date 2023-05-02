@@ -53,5 +53,5 @@ print("Python" not in busqueda) #True
 
 #Camelcase
 varibleNueva = True
-#Snake_Case
-variable_Nueva = False
+#Snake_Case se coloca el nombre en minuscula todo
+variable_nueva = False
