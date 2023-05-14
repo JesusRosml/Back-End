@@ -55,3 +55,20 @@ print("Python" not in busqueda) #True
 varibleNueva = True
 #Snake_Case se coloca el nombre en minuscula todo
 variable_nueva = False
+
+"""
+Fundición
+Si desea especificar el tipo de datos de una variable, puede hacerlo con la conversión.
+"""
+
+x = str(3)    # x will be '3'
+y = int(3)    # y will be 3
+z = float(3)  # z will be 3.0
+
+#Desempaquetar una coleccion 
+lenguage = ['Python', 'JavaScript', 'Java']
+m, a, q = lenguage
+
+print(m)
+print(a)
+print(q)

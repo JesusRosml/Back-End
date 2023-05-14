@@ -15,4 +15,7 @@ operator_or3 = False | False #False
 #Operadores NOT
 #Convierte el valor a un valor contrario    
 operator_not = not True # Falso
-operator_not1 = not False # True
+operator_not1 = not False # Tru
+
+
+print(('operador' == 'operador') | ('papa' == 'papa'))
